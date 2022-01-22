@@ -16,10 +16,12 @@
     * A marker layer map with pop-up markers for the cities in the vacation DataFrame is created.
     * Each marker has the hotel name, city, country, weather description & temperature.
     * Saved the map with marker as Weather_vacation_map.PNG.
-
+![image](Vacation_Search/WeatherPy_vacation_map.PNG)
 3. Create Travel Itinerary Map
 
     * Created four dataframe for cities.
     * extracted teh langitude & latitude of the cities.
-    * Directional layer map between the four cities & travel map is created ( saved as WeatherPy_travel_map.PNG)
+    * Directional layer map between the four cities & travel map is created ( saved the map as WeatherPy_travel_map.PNG)
+![image]()    
     * A marker layer map with a pop-up marker( hotel name, city, country , weather description & temperture) for the cities on the itinerary is created ( saved the map as WeatherPy_travel_map_marker.PNG)
+![image]()    
