@@ -22,6 +22,6 @@
     * Created four dataframe for cities.
     * extracted teh langitude & latitude of the cities.
     * Directional layer map between the four cities & travel map is created ( saved the map as WeatherPy_travel_map.PNG)
-![image]()    
+![image](Vacation_Itinerary/WeatherPy_travel_map.PNG)    
     * A marker layer map with a pop-up marker( hotel name, city, country , weather description & temperture) for the cities on the itinerary is created ( saved the map as WeatherPy_travel_map_marker.PNG)
 ![image]()    
