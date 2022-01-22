@@ -9,13 +9,13 @@
 
 2.  Database for Hotel for the cities database
 
-    * Customers are prompted for their prefernce of low & high temperature range for the vacation
-    * Created new dataframe based on the minimum & maximum temperature. Dropped the empty rows
-    * Hotel name is retrived (from GMAPS) aand added to the dataframe & drpped the rows that didn't have rows.
-    * The dataframe is saved as CSV file( WeatherPy_vacation)
+    * Customers are prompted to enter their preference of low & high temperature range for the vacation.
+    * Created new dataframe based on the minimum & maximum temperature. Dropped the empty rows.
+    * Hotel name is retrived (from GMAPS) aand added to the dataframe & dropped the rows that didn't have rows.
+    * The dataframe is saved as CSV file( WeatherPy_vacation).
     * A marker layer map with pop-up markers for the cities in the vacation DataFrame is created.
-    * Each marker has the hotel name, city, country, weather description & temperature
-    * Saved the map with marker as Weather_vacation_map.PNG
+    * Each marker has the hotel name, city, country, weather description & temperature.
+    * Saved the map with marker as Weather_vacation_map.PNG.
 
 3. Create Travel Itinerary Map
 
