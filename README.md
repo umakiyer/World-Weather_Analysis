@@ -23,7 +23,8 @@
 
     * Created four DataFrames for four cities in the same country.
     * Extracted the longitude & latitude of the cities from the dataframe.
-    * Directional layer map between the four cities & travel map is created (saved the map as WeatherPy_travel_map.PNG).
+    * Selected start, end and stop over cities. 
+    * Using the Direction API, directional layer map between the four cities & travel map is created (saved the map as WeatherPy_travel_map.PNG).
 ![image](Vacation_Itinerary/WeatherPy_travel_map.PNG)    
-    * A marker layer map with a pop-up marker( hotel name, city, country , weather description & temperature) for the cities on the itinerary is created ( saved the map as WeatherPy_travel_map_marker.PNG).
+    * A marker layer map with a pop-up marker (hotel name, city, country, weather description & temperature) for the cities on the itinerary is created (saved the map as WeatherPy_travel_map_marker.PNG).
 ![image](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)    
